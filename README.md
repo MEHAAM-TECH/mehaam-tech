@@ -152,7 +152,7 @@
   <img src="https://img.shields.io/badge/Betterstack-23E4405F?style=for-the-badge&logo=server&logoColor=white" alt="Betterstack"/>
   </a>
   <a href="https://dashboard.katabump.com/auth/login" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-23E4405F?style=for-the-badge&logo=server&logoColor=white" alt="Katabump"/>
+  <img src="https://img.shields.io/badge/Katabump-27AE60?style=for-the-badge&logo=server&logoColor=white" alt="Katabump"/>
   </a>
 </a>
 
