@@ -151,6 +151,8 @@
 
   <a href="https://betterstack.com" target="_blank">
   <img src="https://img.shields.io/badge/Betterstack-23E4405F?style=for-the-badge&logo=server&logoColor=white" alt="Betterstack"/>
+      <a href=" https://app.netlify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Netlify-FF00A884?style=for-the-badge&logo=server&logoColor=white" alt="Netlify"/>
   </a>
 </a>
 
