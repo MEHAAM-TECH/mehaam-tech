@@ -168,16 +168,19 @@
   <table>
 <tr>
    <td><a href="https://github.com/MEHAAM-TECH" target="_blank"><img src="https://img.shields.io/badge/Github Profile-34495E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+         <td><a href="fahadham1998@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
       <td><a href="https://www.youtube.com/@mehajibsha" target="_blank"><img src="https://img.shields.io/badge/Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
    <td><a href="https://www.facebook.com/mehajibsha.786" target="_blank"><img src="https://img.shields.io/badge/Facebook Profile-0078E7?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://www.instagram.com/mehajibsha_786" target="_blank"><img src="https://img.shields.io/badge/Instagram Profile-EF2F88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://www.instagram.com/mehajibsha_786" target="_blank"><img src="https://img.shields.io/badge/Instagram Profile-23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
    <td><a href="https://t.me/mehajibsha" target="_blank"><img src="https://img.shields.io/badge/Telegram Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://wa.me/919947067466" target="_blank"><img src="https://img.shields.io/badge/WhatsApp Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/></a></td>
     </tr>
+  </table>
   </table>
 </div>
  
@@ -202,4 +205,5 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
 
