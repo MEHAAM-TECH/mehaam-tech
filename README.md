@@ -172,7 +172,7 @@
     </tr>
     <tr>
    <td><a href="https://www.facebook.com/mehajibsha.786" target="_blank"><img src="https://img.shields.io/badge/Facebook Profile-0078E7?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://www.instagram.com/mehajibsha_786" target="_blank"><img src="https://img.shields.io/badge/Instagram Profile-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://www.instagram.com/mehajibsha_786" target="_blank"><img src="https://img.shields.io/badge/Instagram Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
    <td><a href="https://t.me/mehajibsha" target="_blank"><img src="https://img.shields.io/badge/Telegram Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/></a></td>
