@@ -63,7 +63,7 @@
     </tr>
     <tr>
   <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=FF0000"/></a></td>
-      <td><a href="https://gitlab.com/users/sign_up/home" target="_blank"><img src="https://img.shields.io/badge/Gitlab-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://gitlab.com/users/sign_up/home" target="_blank"><img src="https://img.shields.io/badge/Gitlab-CC00FF?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
     <td><a href="https://replit.com/signup" target="_blank"><img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000&color=3498DB"/></a></td>
