@@ -178,7 +178,7 @@
     </tr>
     <tr>
    <td><a href="https://t.me/mehajibsha" target="_blank"><img src="https://img.shields.io/badge/Telegram Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://wa.me/919947067466" target="_blank"><img src="https://img.shields.io/badge/WhatsApp Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://wa.me/918606871466" target="_blank"><img src="https://img.shields.io/badge/WhatsApp Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/></a></td>
     </tr>
       
   </table>
